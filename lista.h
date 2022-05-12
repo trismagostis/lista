@@ -1,0 +1,2 @@
+void dopiszDoListy();
+void wczytajListe();
